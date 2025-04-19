@@ -5,12 +5,12 @@
     employee turnover and make data-driven decisions to improve retention.
 
  # Dataset Summary
-	•	Total Employees: 1,416
-	•	Attrition Count: 229
-	•	Attrition Rate: 16.2%
-	•	Average Age: 37 years
-	•	Average Salary: $7,000
-	•	Average Tenure: 7 years
+	   •	Total Employees: 1,416
+	   •	Attrition Count: 229
+	   •	Attrition Rate: 16.2%
+	   •	Average Age: 37 years
+	   •	Average Salary: $7,000
+	   •	Average Tenure: 7 years
 
   # Key Insights
 
@@ -20,12 +20,12 @@
 	   •	Marketing: Third (15%)
 
     2. Attrition by Age Group
-     •	26–35 years: Highest attrition (111 employees)
-     •	55+ years: Lowest attrition (8 employees)
+           •	26–35 years: Highest attrition (111 employees)
+           •	55+ years: Lowest attrition (8 employees)
  
     3. Attrition by Job Role
 	   •	Laboratory Technicians: 60 employees
-  	 •	Sales Executives: 55 employees
+  	   •	Sales Executives: 55 employees
 	   •	Research Scientists: 44 employees
 
     4. Attrition by Salary Bracket
@@ -44,7 +44,7 @@
 
     8. Job Satisfaction vs. Attrition
 	   •	Sales Executives who rated their job satisfaction as 4 (highest) also had the highest attrition 
-        (106 employees), indicating a possible disconnect between job satisfaction scores and retention.
+                (106 employees), indicating a possible disconnect between job satisfaction scores and retention.
         
   # Tools Used
 	  •	Power BI for data modeling, visualization, and dashboard design
@@ -58,7 +58,7 @@
 
   # Conclusion
 
-    -This dashboard highlights critical areas where the company can focus its retention efforts, 
-     particularly among younger employees, those with lower salaries, and roles 
-     such as Lab Technicians and Sales Executives. The analysis suggests a need to reassess promotion policies, 
-     compensation strategies, and possibly dig deeper into what job satisfaction scores really represent in different roles.
+          -    This dashboard highlights critical areas where the company can focus its retention efforts, 
+               particularly among younger employees, those with lower salaries, and roles 
+               such as Lab Technicians and Sales Executives. The analysis suggests a need to reassess promotion policies, 
+               compensation strategies, and possibly dig deeper into what job satisfaction scores really represent in different roles.
