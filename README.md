@@ -20,8 +20,8 @@
 	   •	Marketing: Third (15%)
 
     2. Attrition by Age Group
-         •26–35 years: Highest attrition (111 employees)
-        •55+ years: Lowest attrition (8 employees)
+        •   26–35 years: Highest attrition (111 employees)
+        •   55+ years: Lowest attrition (8 employees)
  
     3. Attrition by Job Role
 	   •	Laboratory Technicians: 60 employees
@@ -44,7 +44,7 @@
 
     8. Job Satisfaction vs. Attrition
 	   •	Sales Executives who rated their job satisfaction as 4 (highest) also had the highest attrition 
-        (106 employees), indicating a possible disconnect between job satisfaction scores and retention.
+           (106 employees), indicating a possible disconnect between job satisfaction scores and retention.
         
   # Tools Used
 	  •	Power BI for data modeling, visualization, and dashboard design
@@ -59,6 +59,6 @@
   # Conclusion
 
          -    This dashboard highlights critical areas where the company can focus its retention efforts, 
-              particularly among younger employees, those with lower salaries, and roles 
-              such as Lab Technicians and Sales Executives. The analysis suggests a need to reassess promotion policies, 
-              compensation strategies, and possibly dig deeper into what job satisfaction scores really represent in different roles.
+              particularly among younger employees, those with lower salaries, and roles such as Lab Technicians 
+	      and Sales Executives. The analysis suggests a need to reassess promotion policies, compensation strategies, 
+              and possibly dig deeper into what job satisfaction scores really represent in different roles.
