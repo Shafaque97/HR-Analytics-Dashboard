@@ -62,3 +62,13 @@
               particularly among younger employees, those with lower salaries, and roles such as Lab Technicians 
 	          and Sales Executives. The analysis suggests a need to reassess promotion policies, compensation strategies, 
               and possibly dig deeper into what job satisfaction scores really represent in different roles.
+
+  # Repository structure
+    -     Data -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20forecast%20DataSet.xlsx)
+    -     Dashboard - [link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20Retail%20Sales%20Forecasting%20Dashboard.pbix)
+    -     Image -[link text](https://github.com/Shafaque97/Online-Retail-sales-Forecasting-PowerBI-Dashboard/blob/main/Online%20retail%20sales%20dashboard%20image.png)
+
+
+  # Feedback & Collaboration
+    -     Your feedback is welcome! If you'd like to collaborate on similar projects,   
+          feel free to reach out.
