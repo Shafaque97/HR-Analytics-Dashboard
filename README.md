@@ -60,5 +60,5 @@
 
          -    This dashboard highlights critical areas where the company can focus its retention efforts, 
               particularly among younger employees, those with lower salaries, and roles such as Lab Technicians 
-	      and Sales Executives. The analysis suggests a need to reassess promotion policies, compensation strategies, 
+	       and Sales Executives. The analysis suggests a need to reassess promotion policies, compensation strategies, 
               and possibly dig deeper into what job satisfaction scores really represent in different roles.
